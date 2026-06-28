@@ -11,7 +11,7 @@ python app.py
 
 Open `http://127.0.0.1:8000`.
 
-On this Codex Windows workspace, `python` may not be in PATH. Use:
+`python` may not be in PATH. Use:
 
 ```powershell
 .\run.ps1
